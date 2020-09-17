@@ -45,7 +45,7 @@
     "lazytests": "1.0.1",
     "mocha": "3.4.2",
     "proxyquire": "~1.6.0",
-    "request": "~2.58.0",
+    "request": "~2.88.2",
     "sinon": "1.15.4",
     "sinon-chai": "2.8.0",
     "xunit-file": "0.0.6"
